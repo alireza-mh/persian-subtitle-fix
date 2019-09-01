@@ -10,7 +10,7 @@ let outputFile: string = (inputIndex > 0 && process.argv[outputIndex + 1] ) ? pr
 
 outputFile = !outputFile.includes('.srt') ? `${outputFile}.srt` : outputFile;
 
-if (!inputPathFile) throw Error('🚨  You should specify input value with either -i or --input flag');
+if (!inputPathFile) throw Error('🚨  You should specify input value with either -I or --input flag');
 
 const buffer: Buffer = fs.readFileSync(inputPathFile);
 

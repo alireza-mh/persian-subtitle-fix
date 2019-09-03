@@ -14,8 +14,8 @@
   "scripts": {
     "prepublishOnly": "tsc main.ts"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["subtitle", "subtitle-fix", "persian-subtitle"],
+  "author": "Alireza Mh",
   "license": "MIT",
   "dependencies": {
     "iconv-lite": "^0.5.0"

@@ -27,6 +27,7 @@
     "inquirer-path": "^1.0.0-beta5"
   },
   "devDependencies": {
+    "@types/inquirer": "^6.5.0",
     "@types/node": "^12.7.3",
     "typescript": "^3.6.2"
   }

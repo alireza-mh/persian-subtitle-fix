@@ -1,5 +1,5 @@
 ### Why
-In case you are not using notepad or other editors that help you change file encoding this tool can help you.
+In case you are not using notepad or any other editor that helps you change files encoding this tool can help.
 ### How to use
 you just need to have npm on your system.
 ```shell
@@ -11,3 +11,5 @@ in case you want to make it available on your bash you should install it globall
 ```shell
 sudo npm install persian-subtitle-fix --global
 ```
+
+Also if you don't provide any flags in cli you will enter to interactive mode.

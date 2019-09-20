@@ -1,3 +1,4 @@
+## Persian subtitle fix
 ### Why
 In case you are not using notepad or any other editor that helps you change files encoding this tool can help.
 ### How to use
@@ -13,3 +14,4 @@ sudo npm install persian-subtitle-fix --global
 ```
 
 Also if you don't provide any flags in cli you will enter to interactive mode.
+

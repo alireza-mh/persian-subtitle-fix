@@ -1,7 +1,10 @@
 {
   "name": "persian-subtitle-fix",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "fix persian subtitle encoding",
+  "author": "Alireza Mahmoodi <alireza.mh@gmail.com> (https://github.com/alireza-mh)",
+  "homepage": "https://github.com/alireza-mh/persian-subtitle-fix",
+  "repository": "github:alireza-mh/persian-subtitle-fix",
   "main": "main.js",
   "bin": {
     "persian-subtitle-fix": "./main.js"
@@ -19,7 +22,6 @@
     "subtitle-fix",
     "persian-subtitle"
   ],
-  "author": "Alireza Mh",
   "license": "MIT",
   "dependencies": {
     "iconv-lite": "^0.5.0",

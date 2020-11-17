@@ -1,5 +1,6 @@
 ## Persian subtitle fix
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![NPM version](https://img.shields.io/npm/v/persian-subtitle-fix?color=green)
 
 ### Why
 In case you are not using notepad or any other editor that helps you change files encoding this tool can help.
